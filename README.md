@@ -55,6 +55,9 @@
 
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
+### 最近始めた
+Rust&TS
+
 ### 無理
 上記のプログラム以外全部
 
